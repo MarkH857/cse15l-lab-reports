@@ -10,13 +10,11 @@ Hello world!
 
 ##### Testing Header level 5
 
-###### Testing Header level 6
+###### Testing Header level 6  
 
-Testing Alternate Heading level 1
-======
+[Lab Report 1](lab-report-1-week-2.html)  
 
-Testing Alternate Heading level 2
-----
+[Lab Report 1](https://<your-username>.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)  
 
 This is a testing paragraph 1.
 
