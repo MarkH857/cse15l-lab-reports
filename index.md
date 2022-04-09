@@ -20,7 +20,9 @@ Testing Alternate Heading level 2
 
 This is a testing paragraph 1.
 
-Testing paragraph 2. LETS GOOOOO
+Testing paragraph 2. LETS GOOOOO  
+
+This is making a new edit made on VS Code.  
 
 Testing ***line breaks***. Here is **line 1**.  
 And here is *line 2*.  
