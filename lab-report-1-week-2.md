@@ -4,7 +4,7 @@
 Go to VS Code website to down load VS Code. [Link is here.](https://code.visualstudio.com/)  
 Open the VS Code after installation and you should be able to see a fresh window similar to the following picture:  
 ![image](VS_Code_Homepage.png)  
-***
+---
 
 ## **Step 2: Remote Connection**  
 1. Open a new terminal in VSCode. Then enter the following command:  
@@ -19,7 +19,7 @@ with zz replaced by the letters in your course-specific account.
 ## **Step 3: Some useful commands**
 You can try some commands that enables you to do a variety of cool operations. Here are some examples:  
 ![image](Some_Commands.png)  
-***
+---
 
 ## **Step 4: Moving Files with `scp`**
 1. Create a java file on your computer, for example a WhereAmI.java file(**Not on the remote server!**)).
@@ -28,7 +28,7 @@ You can try some commands that enables you to do a variety of cool operations. H
 3. Log back into the remote server and you should be able to see your file (here it is WhereAmI.java) using the `ls` command.
 ![image](Copying_File_1.png)
 ![image](Copying_File_2.png)
-***
+---
 
 ## **Step 5: Setting an SSH Key**
 1. Create a private key and a public key stored in the .ssh directory in your personal computer.
@@ -37,7 +37,7 @@ You can try some commands that enables you to do a variety of cool operations. H
 ![image](SSH_Keys2.png)
 ![image](SSH_Keys3.png)
 3. You should be able to login to the remote server without typing out the password after the aforementioned steps.
-***
+---
 
 ## **Step 6: Optimizing Remote Running**
 1. You can directly type a command at the end of an `ssh` command to run it right after login instead of loggin in first and then run the command.
