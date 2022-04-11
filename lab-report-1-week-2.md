@@ -3,7 +3,7 @@
 ## **Step 1: Installing VS Code** 
 Go to VS Code website to down load VS Code. [Link is here.](https://code.visualstudio.com/)  
 Open the VS Code after installation and you should be able to see a fresh window similar to the following picture:  
-![image](VS_Code_Homepage.png)  
+![image](VS_Code_Homepage.png)
 ---
 
 ## **Step 2: Remote Connection**  
@@ -14,11 +14,13 @@ with zz replaced by the letters in your course-specific account.
 `The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.`) and press enter.
 3. Type your password afterwords and you should get a page similar to the following:  
 ![image](Successful_Login.png)  
+
 ---
 
 ## **Step 3: Some useful commands**
 You can try some commands that enables you to do a variety of cool operations. Here are some examples:  
-![image](Some_Commands.png)  
+![image](Some_Commands.png)
+
 ---
 
 ## **Step 4: Moving Files with `scp`**
@@ -28,6 +30,7 @@ You can try some commands that enables you to do a variety of cool operations. H
 3. Log back into the remote server and you should be able to see your file (here it is WhereAmI.java) using the `ls` command.
 ![image](Copying_File_1.png)
 ![image](Copying_File_2.png)
+
 ---
 
 ## **Step 5: Setting an SSH Key**
