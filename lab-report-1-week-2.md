@@ -14,7 +14,7 @@ with zz replaced by the letters in your course-specific account.
 `The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.`) and press enter.
 3. Type your password afterwords and you should get a page similar to the following:  
 ![image](Successful_Login.png)  
-***
+---
 
 ## **Step 3: Some useful commands**
 You can try some commands that enables you to do a variety of cool operations. Here are some examples:  
