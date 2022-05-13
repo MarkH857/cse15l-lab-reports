@@ -6,7 +6,7 @@
 2. A picture of logging into the remote server with just "ieng6":  
 ![image](Show_Login_WithJustUN.png)  
 3. A picture of copying a file to the server with just "ieng6":  
-![image](Show_Copying_Files)  
+![image](Show_Copying_Files.png)  
 
 ## Setup Github Access from ieng6  
 1. A picture of the public key and private key stored on the server:
