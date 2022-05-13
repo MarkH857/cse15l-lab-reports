@@ -1,7 +1,7 @@
 # More Advanced Features using Remote Server  
 
 ## Streamlining ssh Configuration  
-1. A picture of the .ssh/config `.ssh/config`:  
+1. A picture of the `.ssh/config`:  
 ![image](Show_Config_File.png)  
 2. A picture of logging into the remote server with just "ieng6":  
 ![image](Show_Login_WithJustUN.png)  
