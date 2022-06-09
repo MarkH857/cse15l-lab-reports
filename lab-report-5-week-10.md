@@ -19,7 +19,9 @@
 ![image](lab5_pics/Test194_OtherImplementation.png) 
 4. The expected output is: [title (with parens)] 
 5. For my implementation, it doesn't take into the account the situation where 
-the link itself has a parenthesis inside. It also doesn't check for whether the text in front of the link has a nested bracket. 
+the link itself has a parenthesis inside. It also doesn't check for whether the text in front of the link has a nested bracket.  
+Here is a picture of the code snippet that needs to be modified:
+![image](lab5_pics/1st_Test_Code_Snippet.png) 
 
 # Second test(test file 201) 
 1. My implementation is correct while the provided implementation is not correct. 
@@ -28,4 +30,6 @@ the link itself has a parenthesis inside. It also doesn't check for whether the 
 3. A picture of the actual output of the provided implementation:
 ![image](lab5_pics/Test201_OtherImplementation.png) 
 4. The expected output is: [] 
-5. For the provided implementation, it doesn't check for whether there is content in between the closed bracket and the open parenthesis, especially there is some non-related content like angle brackets. 
+5. For the provided implementation, it doesn't check for whether there is content in between the closed bracket and the open parenthesis, especially there is some non-related content like angle brackets.  
+Here is a picture of the code snippet that needs to be modified:
+![image](lab5_pics/2nd_Test_Code_Snippet.png) 
